@@ -70,7 +70,7 @@ export const App = () => {
 
   const handleLoadMore = () => {
     setPage(page => page + 1);
-    setIsLoading(true)
+    
 
   }
 
